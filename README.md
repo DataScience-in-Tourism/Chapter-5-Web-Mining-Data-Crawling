@@ -1,5 +1,6 @@
 # Chapter 5: Web Mining & Data Crawling
-## Data-Driven Categorization of Objects in Tourism
+## Collecting and retrieving data from the Web
+
 ***Roman Egger***, ***Markus Kroner*** & ***[Andreas Stöckl](https://github.com/astoeckl)***
 
 ![crawling.png](https://github.com/DataScience-in-Tourism/Chapter-5-Web-Mining-Data-Crawling/blob/main/crawling.png)
