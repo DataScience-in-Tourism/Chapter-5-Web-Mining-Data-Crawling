@@ -2,6 +2,8 @@
 ## Data-Driven Categorization of Objects in Tourism
 ***Roman Egger***, ***Markus Kroner*** & ***[Andreas Stöckl](https://github.com/astoeckl)***
 
+![crawling.png](https://github.com/DataScience-in-Tourism/Chapter-5-Web-Mining-Data-Crawling/blob/main/crawling.png)
+
 ### Abstract
 
 In this chapter, a number of tools for crawling websites are presented, and an example using hotel ratings has been adopted in order to specifically show how these can be extracted from a rating platform. For this purpose, Python with the library "BeautifulSoup" is used. Other program packages include Scrapy and Selenium, with which more complex applications can be realized. In addition to the technical aspects of web scraping, the legal framework of this process will also be discussed. 
