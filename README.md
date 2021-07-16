@@ -1,12 +1,6 @@
-# Chapter-5-Web-Mining-Data-Crawling
-**Contributors**
-
-* Roman Egger - Salzburg University of Applied Sciences
-* Andreas Stöckl - Communications and Media, University of Applied Sciences Hagenberg
-
 # Chapter 5: Web Mining & Data Crawling
 ## Data-Driven Categorization of Objects in Tourism
-***Roman Egger*** & ***[Andreas Stöckl](https://github.com/astoeckl)***
+***Roman Egger***, *** Markus Kroner*** & ***[Andreas Stöckl](https://github.com/astoeckl)***
 
 ### Abstract
 
